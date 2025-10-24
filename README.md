@@ -14,7 +14,7 @@ A multi-threaded C# program demonstrating the Producer-Consumer pattern with thr
 
 ### Command Line
 ```bash
-cd C:\Users\kenzo\CascadeProjects\ProducerConsumerNew
+cd folder location
 dotnet run
 ```
 
